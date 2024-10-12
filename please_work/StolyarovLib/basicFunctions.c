@@ -227,7 +227,7 @@ void fillRect(uint16_t x1, uint16_t y1, uint16_t x2, uint16_t y2, uint16_t color
 	Write16ToLCD(y2);
 
 	CommandLCD(ILI9341_MEMORYWRITE);
-	for (int i = 0; i < 320 * 480; i++) {
+	for (int i = 0; i < (x2 - x1)* (y2 - y1); i++) {
 	    Write16ToLCD(color);
 	}
 }

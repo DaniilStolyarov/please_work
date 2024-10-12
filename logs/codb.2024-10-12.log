@@ -1,0 +1,1610 @@
+00:42:19.658 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+00:52:19.806 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+00:52:52.045 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+01:21:19.760 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+01:21:49.071 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+01:22:37.327 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+01:22:53.758 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+01:23:05.398 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+01:24:29.753 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+01:26:17.086 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+01:27:35.872 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+01:28:48.931 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+01:29:49.385 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+01:31:43.572 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+01:33:47.355 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+01:39:25.736 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+01:42:52.373 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+01:43:11.657 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+01:51:12.972 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+01:51:50.472 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+01:54:00.425 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+01:54:15.897 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+01:54:25.404 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+01:56:00.500 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+01:56:12.597 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+01:56:31.248 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+01:58:48.300 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+02:00:57.880 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+02:01:15.408 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+02:01:37.019 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+02:02:37.608 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+02:03:20.977 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+02:06:42.080 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+02:24:03.074 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+02:24:27.754 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+02:25:02.456 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+02:34:03.530 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+02:36:07.824 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+02:36:16.891 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+02:36:25.772 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+02:37:39.821 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+02:37:54.821 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:05:58.849 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:06:07.559 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:06:22.687 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:06:55.457 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:07:25.390 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:07:33.261 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:07:36.294 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:07:49.539 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:07:55.096 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:08:01.643 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:10:33.309 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:10:39.310 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:11:26.926 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:11:34.678 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:16:27.601 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:16:44.342 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:16:50.247 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:18:58.463 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:19:23.007 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:19:40.660 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:19:46.686 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:20:53.587 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:22:24.163 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:22:29.338 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:32:54.130 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:33:06.183 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:34:22.242 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:34:29.111 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:36:42.557 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:36:50.120 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:36:54.569 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:50:56.559 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:51:06.259 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:51:16.703 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:52:30.513 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:52:35.164 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+03:59:20.539 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+04:10:53.053 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+04:11:04.663 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+04:15:06.883 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+04:15:14.991 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+04:19:26.701 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+04:19:44.838 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+04:20:22.317 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+04:20:44.187 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+04:36:14.071 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+04:37:02.035 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+04:37:14.028 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+04:42:16.414 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+04:42:32.337 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+04:49:00.606 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+04:49:05.794 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+04:50:53.085 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+04:51:03.702 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+04:51:10.376 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+04:53:02.584 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+04:53:07.450 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+04:53:13.222 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:03:04.422 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:08:41.079 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:08:41.345 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:09:02.507 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:13:26.590 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:13:58.868 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:14:13.768 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:14:30.741 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:14:38.501 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:19:24.777 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:20:10.417 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:20:15.535 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:22:34.601 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:22:44.378 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:22:56.496 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:23:04.838 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:24:39.695 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:27:14.883 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:27:20.847 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:30:53.912 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:30:58.956 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:31:06.317 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:32:59.039 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:33:18.289 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:34:31.720 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:34:45.683 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:38:49.361 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:38:56.875 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:40:29.851 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:40:51.157 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:41:14.860 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:41:31.383 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:44:16.442 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:44:23.054 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:45:24.430 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:45:38.237 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:49:21.888 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:49:31.122 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:51:24.771 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:51:32.756 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:54:35.922 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+05:54:46.132 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+06:14:40.633 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+06:14:48.330 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+06:21:43.810 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+06:21:53.931 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+06:22:35.317 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+06:23:43.079 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+06:23:47.788 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+06:23:53.119 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+06:26:17.048 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+06:26:36.117 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+06:28:23.071 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+06:28:31.838 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+06:33:40.692 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+06:33:56.507 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+06:36:58.336 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+06:37:11.454 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+06:37:21.926 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+06:41:11.896 [pool-1-thread-1] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+
+06:41:27.536 [pool-1-thread-2] ERROR org.coocox.codb.common.log.ErrorLog - menuToolbarStat api exception!errorCode:2000
+PUT API FAILED! 
+org.coocox.codb.client.core.api.ClientBaseApi.putRespCheck(ClientBaseApi.java:55)
+org.coocox.codb.client.core.api.impl.StatApiImpl.menuToolbarStat(StatApiImpl.java:85)
+org.coocox.codb.client.core.task.StatisticsHandler$StatHandler.run(StatisticsHandler.java:78)
+java.util.concurrent.ThreadPoolExecutor$Worker.runTask(Unknown Source)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+java.lang.Thread.run(Unknown Source)
+
+

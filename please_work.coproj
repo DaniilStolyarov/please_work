@@ -4,7 +4,7 @@
     <Device manufacturerId="9" manufacturerName="ST" chipId="310" chipName="STM32F103RB" boardId="" boardName=""/>
     <BuildOption>
       <Compile>
-        <Option name="OptimizationLevel" value="0"/>
+        <Option name="OptimizationLevel" value="3"/>
         <Option name="UseFPU" value="0"/>
         <Option name="UserEditCompiler" value=""/>
         <Option name="SupportCPlusplus" value="0"/>
@@ -83,29 +83,31 @@
     <File name="Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c" path="please_work/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c" type="1"/>
     <File name="Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h" path="please_work/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h" type="1"/>
     <File name="Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h" path="please_work/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h" type="1"/>
-    <File name="Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c" path="please_work/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c" type="1"/>
     <File name="Drivers/CMSIS/Include/core_cm4.h" path="please_work/Drivers/CMSIS/Include/core_cm4.h" type="1"/>
+    <File name="Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c" path="please_work/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c" type="1"/>
     <File name="Core/Src/stm32f1xx_hal_msp.c" path="please_work/Core/Src/stm32f1xx_hal_msp.c" type="1"/>
+    <File name="Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c" path="please_work/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c" type="1"/>
     <File name="Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usart.h" path="please_work/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usart.h" type="1"/>
     <File name="Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h" path="please_work/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h" type="1"/>
-    <File name="Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c" path="please_work/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c" type="1"/>
     <File name="Core/Src/sysmem.c" path="please_work/Core/Src/sysmem.c" type="1"/>
     <File name="Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c" path="please_work/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c" type="1"/>
     <File name="StolyarovLib/basicFunctions.h" path="please_work/StolyarovLib/basicFunctions.h" type="1"/>
+    <File name="Core/Src/main.c.backup1" path="please_work/Core/Src/main.c.backup1" type="1"/>
     <File name="Drivers/CMSIS/Include/cmsis_gcc.h" path="please_work/Drivers/CMSIS/Include/cmsis_gcc.h" type="1"/>
     <File name="Drivers/CMSIS/Include/core_cm33.h" path="please_work/Drivers/CMSIS/Include/core_cm33.h" type="1"/>
     <File name="Core/Src/main.c" path="please_work/Core/Src/main.c" type="1"/>
     <File name="StolyarovLib/registers.h" path="please_work/StolyarovLib/registers.h" type="1"/>
     <File name="Drivers/CMSIS/Include/core_cm0plus.h" path="please_work/Drivers/CMSIS/Include/core_cm0plus.h" type="1"/>
     <File name="Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates" path="" type="2"/>
-    <File name="Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_utils.h" path="please_work/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_utils.h" type="1"/>
     <File name="Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_dma.h" path="please_work/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_dma.h" type="1"/>
+    <File name="Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_utils.h" path="please_work/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_utils.h" type="1"/>
     <File name="Drivers/CMSIS/Include/core_armv8mbl.h" path="please_work/Drivers/CMSIS/Include/core_armv8mbl.h" type="1"/>
     <File name="Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h" path="please_work/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h" type="1"/>
-    <File name="Drivers/CMSIS/Include/core_cm1.h" path="please_work/Drivers/CMSIS/Include/core_cm1.h" type="1"/>
     <File name="StolyarovLib" path="" type="2"/>
+    <File name="Drivers/CMSIS/Include/core_cm1.h" path="please_work/Drivers/CMSIS/Include/core_cm1.h" type="1"/>
     <File name="Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h" path="please_work/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h" type="1"/>
     <File name="Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h" path="please_work/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h" type="1"/>
+    <File name="Core/Src/main.c.backup2" path="please_work/Core/Src/main.c.backup2" type="1"/>
     <File name="StolyarovLib/basicFunctions.c" path="please_work/StolyarovLib/basicFunctions.c" type="1"/>
     <File name="Drivers/CMSIS/Include" path="" type="2"/>
     <File name="Core/Inc" path="" type="2"/>
@@ -115,25 +117,26 @@
     <File name="Drivers/CMSIS/Include/core_armv8mml.h" path="please_work/Drivers/CMSIS/Include/core_armv8mml.h" type="1"/>
     <File name="Drivers/CMSIS/Include/core_sc300.h" path="please_work/Drivers/CMSIS/Include/core_sc300.h" type="1"/>
     <File name="Core/Src/system_stm32f1xx.c" path="please_work/Core/Src/system_stm32f1xx.c" type="1"/>
+    <File name="Drivers/CMSIS/Device/ST/STM32F1xx/Include" path="" type="2"/>
     <File name="Drivers/CMSIS/Device/ST/STM32F1xx/Source" path="" type="2"/>
     <File name="Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h" path="please_work/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h" type="1"/>
-    <File name="Drivers/CMSIS/Device/ST/STM32F1xx/Include" path="" type="2"/>
     <File name="Drivers/CMSIS/LICENSE.txt" path="please_work/Drivers/CMSIS/LICENSE.txt" type="1"/>
     <File name="Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h" path="please_work/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h" type="1"/>
     <File name="Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_system.h" path="please_work/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_system.h" type="1"/>
     <File name="Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h" path="please_work/Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h" type="1"/>
     <File name="Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h" path="please_work/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h" type="1"/>
     <File name="Drivers/STM32F1xx_HAL_Driver/LICENSE.txt" path="please_work/Drivers/STM32F1xx_HAL_Driver/LICENSE.txt" type="1"/>
-    <File name="Drivers/STM32F1xx_HAL_Driver/Inc/Legacy" path="" type="2"/>
     <File name="Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_gpio.h" path="please_work/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_gpio.h" type="1"/>
     <File name="Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c" path="please_work/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c" type="1"/>
+    <File name="Drivers/STM32F1xx_HAL_Driver/Inc/Legacy" path="" type="2"/>
     <File name="Drivers/CMSIS/Include/cmsis_armcc.h" path="please_work/Drivers/CMSIS/Include/cmsis_armcc.h" type="1"/>
-    <File name="Drivers/CMSIS/Include/cmsis_iccarm.h" path="please_work/Drivers/CMSIS/Include/cmsis_iccarm.h" type="1"/>
     <File name="Drivers/CMSIS/Include/mpu_armv7.h" path="please_work/Drivers/CMSIS/Include/mpu_armv7.h" type="1"/>
+    <File name="Drivers/CMSIS/Include/cmsis_iccarm.h" path="please_work/Drivers/CMSIS/Include/cmsis_iccarm.h" type="1"/>
     <File name="Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c" path="please_work/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c" type="1"/>
     <File name="Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c" path="please_work/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c" type="1"/>
     <File name="Drivers/STM32F1xx_HAL_Driver/Inc" path="" type="2"/>
     <File name="Drivers" path="" type="2"/>
+    <File name="StolyarovLib/serialImageTransmittion.c" path="please_work/StolyarovLib/serialImageTransmittion.c" type="1"/>
     <File name="Drivers/CMSIS/Include/cmsis_version.h" path="please_work/Drivers/CMSIS/Include/cmsis_version.h" type="1"/>
     <File name="Drivers/CMSIS/Device/ST" path="" type="2"/>
     <File name="Drivers/CMSIS/Include/tz_context.h" path="please_work/Drivers/CMSIS/Include/tz_context.h" type="1"/>
@@ -145,18 +148,19 @@
     <File name="Drivers/CMSIS/Include/core_cm7.h" path="please_work/Drivers/CMSIS/Include/core_cm7.h" type="1"/>
     <File name="Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h" path="please_work/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h" type="1"/>
     <File name="Drivers/CMSIS/Device" path="" type="2"/>
+    <File name="StolyarovLib/serialImageTransmittion.h" path="please_work/StolyarovLib/serialImageTransmittion.h" type="1"/>
     <File name="Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h" path="please_work/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h" type="1"/>
     <File name="Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h" path="please_work/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h" type="1"/>
     <File name="Core/Src" path="" type="2"/>
     <File name="Core/Inc/stm32f1xx_it.h" path="please_work/Core/Inc/stm32f1xx_it.h" type="1"/>
     <File name="Drivers/CMSIS/Include/cmsis_compiler.h" path="please_work/Drivers/CMSIS/Include/cmsis_compiler.h" type="1"/>
     <File name="Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h" path="please_work/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h" type="1"/>
+    <File name="Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h" path="please_work/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h" type="1"/>
     <File name="Drivers/CMSIS" path="" type="2"/>
     <File name="Core/Src/stm32f1xx_it.c" path="please_work/Core/Src/stm32f1xx_it.c" type="1"/>
-    <File name="Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h" path="please_work/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h" type="1"/>
     <File name="Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h" path="please_work/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h" type="1"/>
-    <File name="Drivers/CMSIS/Include/core_cm23.h" path="please_work/Drivers/CMSIS/Include/core_cm23.h" type="1"/>
     <File name="Core/Src/syscalls.c" path="please_work/Core/Src/syscalls.c" type="1"/>
+    <File name="Drivers/CMSIS/Include/core_cm23.h" path="please_work/Drivers/CMSIS/Include/core_cm23.h" type="1"/>
     <File name="Core/Startup/startup_stm32f103rbtx.s" path="please_work/Core/Startup/startup_stm32f103rbtx.s" type="1"/>
     <File name="Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h" path="please_work/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h" type="1"/>
     <File name="Drivers/CMSIS/Include/core_sc000.h" path="please_work/Drivers/CMSIS/Include/core_sc000.h" type="1"/>
@@ -169,8 +173,8 @@
     <File name="Drivers/STM32F1xx_HAL_Driver" path="" type="2"/>
     <File name="Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c" path="please_work/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c" type="1"/>
     <File name="Drivers/CMSIS/Include/mpu_armv8.h" path="please_work/Drivers/CMSIS/Include/mpu_armv8.h" type="1"/>
-    <File name="Core" path="" type="2"/>
     <File name="Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_bus.h" path="please_work/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_bus.h" type="1"/>
+    <File name="Core" path="" type="2"/>
     <File name="Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c" path="please_work/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c" type="1"/>
   </Files>
 </Project>

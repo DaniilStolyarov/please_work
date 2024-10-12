@@ -15,33 +15,45 @@
 <part id="2"/>
 <part id="3"/>
 <part id="4"/>
+<part id="5"/>
+<part id="6"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
 <editor id="org.coocox.builder.ui.editors.ConfigEditor" name="" partName="Configuration" title="Configuration" tooltip="" workbook="DefaultEditorWorkbook">
-<input factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory">
-<org.coocox.builder.ui.editors.ConfigEditor horizontalPosition="0" subTagIndex="2" verticalPosition="117"/>
+<input factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory">&#x0A;<org.coocox.builder.ui.editors.ConfigEditor horizontalPosition="0" subTagIndex="2" verticalPosition="117"/>
 </input>
 </editor>
 <editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="D:/3_kurs/MCU_DO_STRONGER/please_work/Core/Src/main.c" title="main.c" tooltip="D:/3_kurs/MCU_DO_STRONGER/please_work/Core/Src/main.c" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/please_work/Core/Src/main.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="626" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2734" selectionTopPixel="1648"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="basicFunctions.c" partName="basicFunctions.c" path="D:/3_kurs/MCU_DO_STRONGER/please_work/StolyarovLib/basicFunctions.c" title="basicFunctions.c" tooltip="D:/3_kurs/MCU_DO_STRONGER/please_work/StolyarovLib/basicFunctions.c" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/please_work/StolyarovLib/basicFunctions.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="6256" selectionTopPixel="4528"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="6160" selectionTopPixel="4160"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="basicFunctions.h" partName="basicFunctions.h" path="D:/3_kurs/MCU_DO_STRONGER/please_work/StolyarovLib/basicFunctions.h" title="basicFunctions.h" tooltip="D:/3_kurs/MCU_DO_STRONGER/please_work/StolyarovLib/basicFunctions.h" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/please_work/StolyarovLib/basicFunctions.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="171" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="484" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="registers.h" partName="registers.h" path="D:/3_kurs/MCU_DO_STRONGER/please_work/StolyarovLib/registers.h" title="registers.h" tooltip="D:/3_kurs/MCU_DO_STRONGER/please_work/StolyarovLib/registers.h" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/please_work/StolyarovLib/registers.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4083" selectionTopPixel="1110"/>
+<editorState selectionHorizontalPixel="0" selectionLength="1432" selectionOffset="2484" selectionTopPixel="2138"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="serialImageTransmittion.h" partName="serialImageTransmittion.h" path="D:/3_kurs/MCU_DO_STRONGER/please_work/StolyarovLib/serialImageTransmittion.h" title="serialImageTransmittion.h" tooltip="D:/3_kurs/MCU_DO_STRONGER/please_work/StolyarovLib/serialImageTransmittion.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/please_work/StolyarovLib/serialImageTransmittion.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="14" selectionOffset="84" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="serialImageTransmittion.c" partName="serialImageTransmittion.c" path="D:/3_kurs/MCU_DO_STRONGER/please_work/StolyarovLib/serialImageTransmittion.c" title="serialImageTransmittion.c" tooltip="D:/3_kurs/MCU_DO_STRONGER/please_work/StolyarovLib/serialImageTransmittion.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/please_work/StolyarovLib/serialImageTransmittion.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="302" selectionTopPixel="98"/>
 </editor>
 </editors>
 <views>
+<view id="org.coocox.component.ui.ComponentView" partName="Components">
+<viewState/>
+</view>
 <view id="org.coocox.builder.ui.views.ProjectView" partName="Project">
 <viewState CommonNavigator.LINKING_ENABLED="0" horizontalPosition="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0" verticalPosition="0">
 <expanded>
@@ -49,12 +61,9 @@
 <element path="/please_work/StolyarovLib"/>
 </expanded>
 <selection>
-<element path="/please_work/StolyarovLib/basicFunctions.h"/>
+<element path="/please_work/StolyarovLib/registers.h"/>
 </selection>
 </viewState>
-</view>
-<view id="org.coocox.component.ui.ComponentView" partName="Components">
-<viewState/>
 </view>
 <view id="org.coocox.codebugger.trace.ui.traceview" partName="Semihosting">
 <viewState/>
@@ -104,28 +113,24 @@
 <hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
 <hide_toolbar_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
 <view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.coocox.builder.ui.views.ProjectView"/>
 <fastViewBars>
-<fastViewBar fastViewLocation="16384" id="org.eclipse.ui.internal.ViewStack@1b26629" orientation="256" selectedTabId="org.coocox.component.ui.ComponentView" style="0">
-<fastViews>
-<view id="org.coocox.component.ui.ComponentView" ratio="0.3"/>
-</fastViews>
-</fastViewBar>
 <fastViewBar fastViewLocation="131072" id="org.eclipse.ui.internal.ViewStack@44aa4c" orientation="256" selectedTabId="org.eclipse.ui.views.ContentOutline" style="0">
 <fastViews>
 <view id="org.coocox.component.ui.Help" ratio="0.3"/>
 <view id="org.eclipse.ui.views.ContentOutline" ratio="0.3"/>
 </fastViews>
 </fastViewBar>
-<fastViewBar fastViewLocation="16384" id="org.eclipse.ui.internal.ViewStack@15143f5" orientation="256" selectedTabId="org.coocox.builder.ui.views.ProjectView" style="0">
+<fastViewBar fastViewLocation="16384" id="org.eclipse.ui.internal.ViewStack@1b26629" orientation="256" selectedTabId="org.coocox.component.ui.ComponentView" style="0">
 <fastViews>
-<view id="org.coocox.builder.ui.views.ProjectView" ratio="0.3"/>
+<view id="org.coocox.component.ui.ComponentView" ratio="0.3"/>
 </fastViews>
 </fastViewBar>
 </fastViewBars>
 <layout>
 <mainWindow>
 <info folder="true" part="org.eclipse.ui.internal.ViewStack@1b26629">
-<folder appearance="2" expanded="0">
+<folder appearance="2" expanded="2">
 <page content="org.coocox.component.ui.ComponentView" label="LabelNotFound"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
@@ -157,9 +162,11 @@
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.44945055" ratioLeft="409" ratioRight="501" relationship="4" relative="org.coocox.builder.ui.exampleView"/>
 <info folder="true" part="org.eclipse.ui.internal.ViewStack@15143f5" ratio="0.36923078" ratioLeft="336" ratioRight="574" relationship="4" relative="org.eclipse.ui.internal.ViewStack@1b26629">
-<folder appearance="2" expanded="0">
-<page content="org.coocox.builder.ui.views.ProjectView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+<folder activePageID="org.coocox.builder.ui.views.ProjectView" appearance="2" expanded="2">
+<page content="org.coocox.builder.ui.views.ProjectView" label="Project"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
 </folder>
 </info>
 </mainWindow>
@@ -259,159 +266,162 @@
 <navigationHistory>
 <editors>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/please_work/Core/Src/main.c"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/please_work/StolyarovLib/basicFunctions.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/please_work/StolyarovLib/serialImageTransmittion.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/please_work/StolyarovLib/serialImageTransmittion.c"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/please_work/StolyarovLib/basicFunctions.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/please_work/StolyarovLib/basicFunctions.c"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/please_work/StolyarovLib/registers.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/please_work/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h"/>
 </editors>
-<item historyLabel="basicFunctions.c" index="1">
-<position info="not_deleted" x="6026" y="0"/>
+<item historyLabel="serialImageTransmittion.c" index="2">
+<position info="not_deleted" x="993" y="0"/>
 </item>
-<item historyLabel="basicFunctions.c" index="1">
-<position info="not_deleted" x="6231" y="0"/>
+<item historyLabel="serialImageTransmittion.h" index="1">
+<position info="not_deleted" x="99" y="5"/>
 </item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="2772" y="0"/>
-</item>
-<item historyLabel="basicFunctions.h" index="2">
-<position info="not_deleted" x="439" y="0"/>
-</item>
-<item historyLabel="basicFunctions.h" index="2">
-<position info="not_deleted" x="439" y="0"/>
-</item>
-<item historyLabel="basicFunctions.c" index="1">
-<position info="not_deleted" x="6231" y="0"/>
+<item historyLabel="serialImageTransmittion.c" index="2">
+<position info="not_deleted" x="1018" y="0"/>
 </item>
 <item historyLabel="main.c" index="0">
-<position info="not_deleted" x="2772" y="0"/>
+<position info="not_deleted" x="2591" y="0"/>
 </item>
-<item historyLabel="basicFunctions.h" index="2">
-<position info="not_deleted" x="439" y="0"/>
+<item historyLabel="basicFunctions.c" index="4">
+<position info="not_deleted" x="2808" y="7"/>
 </item>
-<item historyLabel="basicFunctions.c" index="1">
-<position info="not_deleted" x="6225" y="0"/>
+<item historyLabel="registers.h" index="5">
+<position info="not_deleted" x="2484" y="1432"/>
 </item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="2772" y="0"/>
+<item historyLabel="basicFunctions.c" index="4">
+<position info="not_deleted" x="4052" y="4"/>
 </item>
-<item historyLabel="basicFunctions.c" index="1">
-<position info="not_deleted" x="5828" y="83"/>
+<item historyLabel="basicFunctions.c" index="4">
+<position info="not_deleted" x="3266" y="0"/>
 </item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="2766" y="0"/>
+<item historyLabel="basicFunctions.c" index="4">
+<position info="not_deleted" x="1494" y="0"/>
 </item>
-<item historyLabel="basicFunctions.h" index="2">
-<position/>
-</item>
-<item historyLabel="basicFunctions.c" index="1">
-<position info="not_deleted" x="5828" y="81"/>
-</item>
-<item historyLabel="basicFunctions.h" index="2">
-<position info="not_deleted" x="439" y="0"/>
+<item historyLabel="serialImageTransmittion.c" index="2">
+<position info="not_deleted" x="1390" y="162"/>
 </item>
 <item historyLabel="main.c" index="0">
-<position info="not_deleted" x="2743" y="0"/>
+<position info="not_deleted" x="2645" y="0"/>
 </item>
-<item historyLabel="basicFunctions.h" index="2">
-<position info="not_deleted" x="439" y="0"/>
-</item>
-<item historyLabel="basicFunctions.c" index="1">
-<position info="not_deleted" x="5828" y="81"/>
-</item>
-<item historyLabel="basicFunctions.c" index="1">
-<position info="not_deleted" x="6018" y="0"/>
-</item>
-<item historyLabel="basicFunctions.c" index="1">
-<position info="not_deleted" x="2615" y="0"/>
+<item historyLabel="serialImageTransmittion.c" index="2">
+<position info="not_deleted" x="1348" y="0"/>
 </item>
 <item historyLabel="main.c" index="0">
-<position info="not_deleted" x="2883" y="0"/>
+<position info="not_deleted" x="2698" y="0"/>
 </item>
-<item historyLabel="basicFunctions.c" index="1">
-<position info="not_deleted" x="2615" y="0"/>
-</item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="2696" y="0"/>
-</item>
-<item historyLabel="basicFunctions.c" index="1">
-<position info="not_deleted" x="5833" y="8"/>
-</item>
-<item historyLabel="basicFunctions.c" index="1">
-<position info="not_deleted" x="6014" y="0"/>
-</item>
-<item historyLabel="basicFunctions.c" index="1">
-<position info="not_deleted" x="2535" y="0"/>
+<item historyLabel="basicFunctions.c" index="4">
+<position info="not_deleted" x="468" y="58"/>
 </item>
 <item historyLabel="main.c" index="0">
-<position/>
+<position info="not_deleted" x="2721" y="0"/>
 </item>
-<item historyLabel="basicFunctions.c" index="1">
-<position info="not_deleted" x="2535" y="0"/>
-</item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="2739" y="0"/>
-</item>
-<item historyLabel="basicFunctions.c" index="1">
-<position info="not_deleted" x="2535" y="0"/>
+<item historyLabel="serialImageTransmittion.c" index="2">
+<position info="not_deleted" x="1362" y="20"/>
 </item>
 <item historyLabel="main.c" index="0">
-<position info="not_deleted" x="2739" y="0"/>
+<position info="not_deleted" x="2748" y="0"/>
 </item>
-<item historyLabel="basicFunctions.c" index="1">
-<position info="not_deleted" x="2535" y="0"/>
+<item historyLabel="serialImageTransmittion.c" index="2">
+<position info="not_deleted" x="977" y="14"/>
 </item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="2739" y="0"/>
+<item historyLabel="serialImageTransmittion.h" index="1">
+<position info="not_deleted" x="99" y="5"/>
 </item>
-<item historyLabel="basicFunctions.c" index="1">
-<position info="not_deleted" x="2535" y="0"/>
+<item historyLabel="serialImageTransmittion.c" index="2">
+<position info="not_deleted" x="1923" y="0"/>
 </item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="2739" y="0"/>
+<item historyLabel="basicFunctions.c" index="4">
+<position info="not_deleted" x="1850" y="11"/>
 </item>
-<item historyLabel="basicFunctions.c" index="1">
-<position info="not_deleted" x="2535" y="0"/>
+<item historyLabel="basicFunctions.c" index="4">
+<position info="not_deleted" x="2007" y="0"/>
 </item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="2754" y="0"/>
-</item>
-<item historyLabel="basicFunctions.c" index="1">
-<position info="not_deleted" x="2535" y="0"/>
+<item historyLabel="basicFunctions.c" index="4">
+<position info="not_deleted" x="915" y="6"/>
 </item>
 <item historyLabel="main.c" index="0">
-<position info="not_deleted" x="2754" y="0"/>
+<position info="not_deleted" x="2745" y="0"/>
 </item>
-<item historyLabel="basicFunctions.c" index="1">
-<position info="not_deleted" x="6123" y="0"/>
-</item>
-<item historyLabel="main.c" index="0">
-<position info="not_deleted" x="2754" y="0"/>
-</item>
-<item historyLabel="basicFunctions.c" index="1">
-<position info="not_deleted" x="6200" y="0"/>
-</item>
-<item historyLabel="basicFunctions.h" index="2">
-<position info="not_deleted" x="439" y="0"/>
-</item>
-<item historyLabel="basicFunctions.c" index="1">
-<position info="not_deleted" x="6200" y="0"/>
-</item>
-<item historyLabel="basicFunctions.h" index="2">
-<position info="not_deleted" x="87" y="0"/>
-</item>
-<item historyLabel="registers.h" index="3">
-<position info="not_deleted" x="4083" y="0"/>
-</item>
-<item historyLabel="basicFunctions.h" index="2">
-<position info="not_deleted" x="171" y="0"/>
-</item>
-<item historyLabel="basicFunctions.c" index="1">
-<position info="not_deleted" x="6256" y="0"/>
+<item historyLabel="serialImageTransmittion.c" index="2">
+<position info="not_deleted" x="2007" y="0"/>
 </item>
 <item historyLabel="main.c" index="0">
-<position info="not_deleted" x="2754" y="0"/>
+<position info="not_deleted" x="2760" y="0"/>
+</item>
+<item historyLabel="serialImageTransmittion.c" index="2">
+<position info="not_deleted" x="666" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="2723" y="0"/>
+</item>
+<item historyLabel="serialImageTransmittion.c" index="2">
+<position info="not_deleted" x="1362" y="20"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="2724" y="0"/>
+</item>
+<item historyLabel="serialImageTransmittion.c" index="2">
+<position info="not_deleted" x="1616" y="22"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="2678" y="26"/>
+</item>
+<item historyLabel="serialImageTransmittion.h" index="1">
+<position info="not_deleted" x="99" y="5"/>
+</item>
+<item historyLabel="serialImageTransmittion.c" index="2">
+<position info="not_deleted" x="550" y="0"/>
+</item>
+<item historyLabel="serialImageTransmittion.h" index="1">
+<position info="not_deleted" x="84" y="14"/>
+</item>
+<item historyLabel="serialImageTransmittion.c" index="2">
+<position info="not_deleted" x="535" y="0"/>
+</item>
+<item historyLabel="stm32f1xx_hal_uart.h" index="6">
+<position info="not_deleted" x="1274" y="8"/>
+</item>
+<item historyLabel="serialImageTransmittion.c" index="2">
+<position info="not_deleted" x="302" y="0"/>
+</item>
+<item historyLabel="serialImageTransmittion.h" index="1">
+<position info="not_deleted" x="84" y="14"/>
+</item>
+<item historyLabel="basicFunctions.h" index="3">
+<position info="not_deleted" x="237" y="0"/>
+</item>
+<item historyLabel="basicFunctions.c" index="4">
+<position info="not_deleted" x="2220" y="8"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="2678" y="26"/>
+</item>
+<item historyLabel="basicFunctions.c" index="4">
+<position info="not_deleted" x="2220" y="8"/>
+</item>
+<item historyLabel="basicFunctions.h" index="3">
+<position info="not_deleted" x="202" y="0"/>
+</item>
+<item historyLabel="basicFunctions.c" index="4">
+<position info="not_deleted" x="1503" y="10"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="2607" y="0"/>
+</item>
+<item historyLabel="basicFunctions.c" index="4">
+<position info="not_deleted" x="6160" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="2632" y="0"/>
+</item>
+<item historyLabel="basicFunctions.h" index="3">
+<position info="not_deleted" x="484" y="0"/>
 </item>
 <item active="true" historyLabel="main.c" index="0">
-<position info="not_deleted" x="2687" y="0"/>
+<position info="not_deleted" x="2632" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -420,47 +430,47 @@
 <actionBarAdvisor/>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="registers.h" tooltip="please_work/StolyarovLib/registers.h">
-<persistable path="/please_work/StolyarovLib/registers.h"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f1xx_hal_uart.h" tooltip="please_work/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h">
+<persistable path="/please_work/Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h"/>
 </file>
-<file factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stddef.h" tooltip="C:\Users\danst\scoop\apps\gcc-arm-none-eabi\13.3.rel1\lib\gcc\arm-none-eabi\13.3.1\include\stddef.h">
-<persistable path="C:\Users\danst\scoop\apps\gcc-arm-none-eabi\13.3.rel1\lib\gcc\arm-none-eabi\13.3.1\include\stddef.h" project="please_work"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="serialImageTransmittion.c" tooltip="please_work/StolyarovLib/serialImageTransmittion.c">
+<persistable path="/please_work/StolyarovLib/serialImageTransmittion.c"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="ILI9488p.cpp" tooltip="please_work/Include_github/ILI9488p.cpp">
-<persistable path="/please_work/Include_github/ILI9488p.cpp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Adafruit_BusIO_Register.h" tooltip="please_work/Include_github/Adafruit_BusIO-1.16.1/Adafruit_BusIO_Register.h">
-<persistable path="/please_work/Include_github/Adafruit_BusIO-1.16.1/Adafruit_BusIO_Register.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Adafruit_SPIDevice.h" tooltip="please_work/Include_github/Adafruit_BusIO-1.16.1/Adafruit_SPIDevice.h">
-<persistable path="/please_work/Include_github/Adafruit_BusIO-1.16.1/Adafruit_SPIDevice.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Adafruit_GFX.cpp" tooltip="please_work/Include_github/Adafruit_GFX/Adafruit_GFX.cpp">
-<persistable path="/please_work/Include_github/Adafruit_GFX/Adafruit_GFX.cpp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Adafruit_GFX.h" tooltip="please_work/Include_github/Adafruit_GFX/Adafruit_GFX.h">
-<persistable path="/please_work/Include_github/Adafruit_GFX/Adafruit_GFX.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Adafruit_I2CDevice.h" tooltip="please_work/Include_github/Adafruit_BusIO-1.16.1/Adafruit_I2CDevice.h">
-<persistable path="/please_work/Include_github/Adafruit_BusIO-1.16.1/Adafruit_I2CDevice.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="ILI9488p.h" tooltip="please_work/Include_github/ILI9488p.h">
-<persistable path="/please_work/Include_github/ILI9488p.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f1xx_hal.c" tooltip="please_work/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c">
-<persistable path="/please_work/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="serialImageTransmittion.h" tooltip="please_work/StolyarovLib/serialImageTransmittion.h">
+<persistable path="/please_work/StolyarovLib/serialImageTransmittion.h"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="basicFunctions.h" tooltip="please_work/StolyarovLib/basicFunctions.h">
 <persistable path="/please_work/StolyarovLib/basicFunctions.h"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.h" tooltip="please_work/Core/Inc/main.h">
-<persistable path="/please_work/Core/Inc/main.h"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f1xx_hal_uart.c" tooltip="please_work/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c">
+<persistable path="/please_work/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="basicFunctions.c" tooltip="please_work/StolyarovLib/basicFunctions.c">
 <persistable path="/please_work/StolyarovLib/basicFunctions.c"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f1xx.h" tooltip="please_work/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h">
-<persistable path="/please_work/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="main.c.backup1" tooltip="please_work/Core/Src/main.c.backup1">
+<persistable path="/please_work/Core/Src/main.c.backup1"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="main.c.backup2" tooltip="please_work/Core/Src/main.c.backup2">
+<persistable path="/please_work/Core/Src/main.c.backup2"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" tooltip="please_work/Core/Src/main.c">
+<persistable path="/please_work/Core/Src/main.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f1xx_it.h" tooltip="please_work/Core/Inc/stm32f1xx_it.h">
+<persistable path="/please_work/Core/Inc/stm32f1xx_it.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f1xx_it.c" tooltip="please_work/Core/Src/stm32f1xx_it.c">
+<persistable path="/please_work/Core/Src/stm32f1xx_it.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f103xb.h" tooltip="please_work/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h">
+<persistable path="/please_work/Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="registers.h" tooltip="please_work/StolyarovLib/registers.h">
+<persistable path="/please_work/StolyarovLib/registers.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.h" tooltip="please_work/Core/Inc/main.h">
+<persistable path="/please_work/Core/Inc/main.h"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f1xx_hal_gpio.c" tooltip="please_work/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c">
 <persistable path="/please_work/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c"/>

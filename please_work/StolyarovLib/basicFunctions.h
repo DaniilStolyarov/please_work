@@ -9,6 +9,7 @@ void LD2Init(void);
 void write8(uint8_t value);
 void CommandLCD(uint8_t command);
 void Write8ToLCD(uint8_t data);
+void Write16ToLCD(uint16_t data);
 void EnterSleepLCD(void);
 void ExitSleepLCD(void);
 void initLCD(void);

@@ -1,29 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <history>
-   <processor signature="13.3.1 -mcpu=cortex-m3 -mthumb -g -Map=please_work.map -O0 --gc-sections -LD:/3_kurs/MCU_DO_STRONGER/please_work -TD:/3_kurs/MCU_DO_STRONGER/please_work/stm32f103rbtx_flash.ld -g">
-      <target file="please_work.elf" lastModified="1927923a0b0">
-         <source file="..\obj\stm32f1xx_hal_rcc_ex.o" lastModified="1927923999c"/>
-         <source file="..\obj\stm32f1xx_hal_pwr.o" lastModified="192792399d3"/>
-         <source file="..\obj\sysmem.o" lastModified="19279239a03"/>
-         <source file="..\obj\stm32f1xx_hal.o" lastModified="19279239a3f"/>
-         <source file="..\obj\stm32f1xx_it.o" lastModified="19279239a7b"/>
-         <source file="..\obj\stm32f1xx_hal_gpio_ex.o" lastModified="19279239aab"/>
-         <source file="..\obj\stm32f1xx_hal_cortex.o" lastModified="19279239af6"/>
-         <source file="..\obj\system_stm32f1xx.o" lastModified="19279239b24"/>
-         <source file="..\obj\stm32f1xx_hal_rcc.o" lastModified="19279239b74"/>
-         <source file="..\obj\stm32f1xx_hal_uart.o" lastModified="19279239bff"/>
-         <source file="..\obj\main.o" lastModified="19279239c3d"/>
-         <source file="..\obj\stm32f1xx_hal_flash.o" lastModified="19279239c7f"/>
-         <source file="..\obj\stm32f1xx_hal_gpio.o" lastModified="19279239cbe"/>
-         <source file="..\obj\stm32f1xx_hal_dma.o" lastModified="19279239d15"/>
-         <source file="..\obj\startup_stm32f103rbtx.o" lastModified="19279239d20"/>
-         <source file="..\obj\basicFunctions.o" lastModified="19279239d62"/>
-         <source file="..\obj\syscalls.o" lastModified="19279239da8"/>
-         <source file="..\obj\stm32f1xx_hal_msp.o" lastModified="19279239de7"/>
-         <source file="..\obj\stm32f1xx_hal_exti.o" lastModified="19279239e25"/>
-         <source file="..\obj\stm32f1xx_hal_tim.o" lastModified="19279239e5e"/>
-         <source file="..\obj\stm32f1xx_hal_flash_ex.o" lastModified="19279239ea3"/>
-         <source file="..\obj\stm32f1xx_hal_tim_ex.o" lastModified="19279239ed5"/>
+   <processor signature="13.3.1 -mcpu=cortex-m3 -mthumb -g -Map=please_work.map -O3 --gc-sections -LD:/3_kurs/MCU_DO_STRONGER/please_work -TD:/3_kurs/MCU_DO_STRONGER/please_work/stm32f103rbtx_flash.ld -g">
+      <target file="please_work.elf" lastModified="19280539e1b">
+         <source file="..\obj\stm32f1xx_hal_rcc_ex.o" lastModified="192805393c1"/>
+         <source file="..\obj\stm32f1xx_hal_pwr.o" lastModified="19280539411"/>
+         <source file="..\obj\sysmem.o" lastModified="19280539443"/>
+         <source file="..\obj\stm32f1xx_hal.o" lastModified="19280539493"/>
+         <source file="..\obj\stm32f1xx_it.o" lastModified="192805394cf"/>
+         <source file="..\obj\stm32f1xx_hal_gpio_ex.o" lastModified="19280539501"/>
+         <source file="..\obj\stm32f1xx_hal_cortex.o" lastModified="19280539565"/>
+         <source file="..\obj\system_stm32f1xx.o" lastModified="19280539597"/>
+         <source file="..\obj\stm32f1xx_hal_rcc.o" lastModified="1928053962d"/>
+         <source file="..\obj\serialImageTransmittion.o" lastModified="1928053967d"/>
+         <source file="..\obj\stm32f1xx_hal_uart.o" lastModified="1928053982b"/>
+         <source file="..\obj\main.o" lastModified="1928053987b"/>
+         <source file="..\obj\stm32f1xx_hal_flash.o" lastModified="192805398e9"/>
+         <source file="..\obj\stm32f1xx_hal_gpio.o" lastModified="19280539957"/>
+         <source file="..\obj\stm32f1xx_hal_dma.o" lastModified="192805399e3"/>
+         <source file="..\obj\startup_stm32f103rbtx.o" lastModified="192805399ed"/>
+         <source file="..\obj\basicFunctions.o" lastModified="19280539aa1"/>
+         <source file="..\obj\syscalls.o" lastModified="19280539af1"/>
+         <source file="..\obj\stm32f1xx_hal_msp.o" lastModified="19280539b2d"/>
+         <source file="..\obj\stm32f1xx_hal_exti.o" lastModified="19280539b7d"/>
+         <source file="..\obj\stm32f1xx_hal_tim.o" lastModified="19280539baf"/>
+         <source file="..\obj\stm32f1xx_hal_flash_ex.o" lastModified="19280539c1d"/>
+         <source file="..\obj\stm32f1xx_hal_tim_ex.o" lastModified="19280539c45"/>
       </target>
    </processor>
 </history>
